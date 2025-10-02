@@ -1,0 +1,26 @@
+{
+  "name": "simple-proxy-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/BADEnder/simple-proxy-server.git"
+  },
+  "keywords": [
+    "proxy"
+  ],
+  "author": "ender chen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BADEnder/simple-proxy-server/issues"
+  },
+  "homepage": "https://github.com/BADEnder/simple-proxy-server#readme",
+  "dependencies": {
+    "express": "^5.1.0",
+    "http-proxy-middleware": "^3.0.5"
+  }
+}
